@@ -1,0 +1,19 @@
+{
+  "name": "@meshootin/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config.",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MeShootIn/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Dmitrii Mishutin <dmitriimishutin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeShootIn/prettier-config/issues"
+  },
+  "homepage": "https://github.com/MeShootIn/prettier-config#readme"
+}
